@@ -18,8 +18,11 @@ The script opens a webpage, fills in form fields, captures a screenshot, and ext
 ## Example Output
 
 py
+
 Page loaded!
+
 Screenshot saved as form_filled.png
+
 There have been a total of 1,307,897,044 edits on Wikipedia!
 
 ### Screenshot Output: ###

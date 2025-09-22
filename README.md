@@ -1,4 +1,4 @@
-# Web Certificate Fetcher (Playwright Demo)
+# Python Form Automation (Playwright Demo)
 
 This project demonstrates simple web automation using [Playwright](https://playwright.dev/python/).  
 The script opens a webpage, fills in form fields, captures a screenshot, and extracts live data from the page.
